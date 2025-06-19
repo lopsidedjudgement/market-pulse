@@ -40,7 +40,8 @@ NLP + Sentiment Analysis
 GitHub + GitHub Actions
 
 🧱 Architecture Diagram
-(Architecture diagram image will be added here once provided)
+![small](https://github.com/user-attachments/assets/18b5d80d-002a-44d1-ac1f-072ec533dd6e)
+
 
 ▶️ How to Run Locally
 Clone the repo:
